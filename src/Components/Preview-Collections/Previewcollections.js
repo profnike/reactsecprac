@@ -12,7 +12,7 @@ function Preview({title,items}) {
       <h1> {title}</h1>
       {items.filter((item,indx)=>{
         return (indx<4)} )
-       .map(({id,name,price})=>{
+       .map(({id,name,price,imageurl})=>{
        
        return(
          <Collectionitem key={id} price={price} name={name} imageurl={imageurl}/>

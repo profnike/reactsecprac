@@ -16,7 +16,7 @@ function Shoppage() {
     <div className="App" >
       <h1>Kilo</h1>
      
-     {section.map(({id,title,items,imageurl})=>{
+     {section.map(({id,title,items})=>{
        return  (
      
        <Previewcollections key={id} title={title} items={items}   />)
