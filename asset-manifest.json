@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/reactsecprac/static/css/main.a7dad151.chunk.css",
-    "main.js": "/reactsecprac/static/js/main.ce3e2856.chunk.js",
-    "main.js.map": "/reactsecprac/static/js/main.ce3e2856.chunk.js.map",
+    "main.js": "/reactsecprac/static/js/main.602d9b87.chunk.js",
+    "main.js.map": "/reactsecprac/static/js/main.602d9b87.chunk.js.map",
     "runtime-main.js": "/reactsecprac/static/js/runtime-main.2939b57e.js",
     "runtime-main.js.map": "/reactsecprac/static/js/runtime-main.2939b57e.js.map",
-    "static/js/2.b0000a3b.chunk.js": "/reactsecprac/static/js/2.b0000a3b.chunk.js",
-    "static/js/2.b0000a3b.chunk.js.map": "/reactsecprac/static/js/2.b0000a3b.chunk.js.map",
+    "static/js/2.c6c1b6d0.chunk.js": "/reactsecprac/static/js/2.c6c1b6d0.chunk.js",
+    "static/js/2.c6c1b6d0.chunk.js.map": "/reactsecprac/static/js/2.c6c1b6d0.chunk.js.map",
     "static/js/3.388dacde.chunk.js": "/reactsecprac/static/js/3.388dacde.chunk.js",
     "static/js/3.388dacde.chunk.js.map": "/reactsecprac/static/js/3.388dacde.chunk.js.map",
     "index.html": "/reactsecprac/index.html",
     "static/css/main.a7dad151.chunk.css.map": "/reactsecprac/static/css/main.a7dad151.chunk.css.map",
-    "static/js/2.b0000a3b.chunk.js.LICENSE.txt": "/reactsecprac/static/js/2.b0000a3b.chunk.js.LICENSE.txt"
+    "static/js/2.c6c1b6d0.chunk.js.LICENSE.txt": "/reactsecprac/static/js/2.c6c1b6d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2939b57e.js",
-    "static/js/2.b0000a3b.chunk.js",
+    "static/js/2.c6c1b6d0.chunk.js",
     "static/css/main.a7dad151.chunk.css",
-    "static/js/main.ce3e2856.chunk.js"
+    "static/js/main.602d9b87.chunk.js"
   ]
 }
